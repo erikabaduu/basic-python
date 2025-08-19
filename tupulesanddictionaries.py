@@ -5,4 +5,5 @@ print(students['Kwame'])
 students['Esi']= 'Math, Chemistry'
 #Find and print the second subject of Ama.
 print(students['Ama'][1])
+#Print the subjects Esi is taking
 print(students['Esi'])
